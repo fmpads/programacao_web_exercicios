@@ -18,11 +18,11 @@ Criar um arquivo index.html, utilizando 15 tags básicas do W3Schools (w3schools
 5º - 9 - h1 - tag de título principal
 6º - 10 - p - tag de parágrafo
 7º - 11 - a - tag de link
-8º - 12 - img - tag de imagem (tag obrigatória escolhida pelo professor)
-9º - 13 - figcaption - tag de legenda de imagem
-10º - 14 - ul - tag de lista não ordenada
-11º - 15 - li - tag de item de lista
-12º - 19 - ol - tag de lista ordenada
-13º - 24 - table - tag de tabela
-14º - 25 - tr - tag de linha da tabela
-15º - 26 - th - tag de cabeçalho da tabela
+8º - 12 - br - tag de quebra de linha
+9º - 13 - img - tag de imagem (tag obrigatória escolhida pelo professor)
+10º - 14 - figcaption - tag de legenda de imagem
+11º - 15 - ul - tag de lista não ordenada
+12º - 16 - li - tag de item de lista
+13º - 20 - ol - tag de lista ordenada
+14º - 25 - table - tag de tabela
+15º - 26 - tr - tag de linha da tabela
